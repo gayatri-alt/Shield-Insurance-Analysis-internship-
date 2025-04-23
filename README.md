@@ -38,12 +38,7 @@ The objective was to uncover key revenue drivers and generate actionable insight
   Highlight and market successful offerings like **Policy “POL4321HEL”**, which already has strong customer adoption.
 
 - 📅 **Understand Monthly Changes:**  
-  Investigate the **drop in revenue in April 2023** to identify root causes and prevent future declines, supporting more stable month-over-month growth.
-
-  ## 📷 Dashboard Preview
-
-![Shield Insurance Power BI Dashboard](assets/dashboard_preview.png)
-
+  Investigate the revenue drop in April 2023 to identify root causes and prevent future declines, supporting more stable month-over-month growth.
 
 
 ## 🚀 Getting Started
