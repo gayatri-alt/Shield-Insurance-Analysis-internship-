@@ -42,6 +42,9 @@ The objective was to uncover key revenue drivers and generate actionable insight
 
   ## 📷 Dashboard Preview
 
+![Shield Insurance Power BI Dashboard](assets/dashboard_preview.png)
+
+
 
 ## 🚀 Getting Started
 
