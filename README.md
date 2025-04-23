@@ -1,5 +1,8 @@
 # Shield Insurance – Customer & Business Insights Dashboard
 
+[View Power BI Dashboard](https://app.powerbi.com/links/erawLRviMw?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+
+
 Shield Insurance provides reliable, comprehensive insurance plans for individuals of all ages and for businesses. This Power BI dashboard project focuses on visualizing customer metrics, policy performance, and settlement trends. With a strong emphasis on security and customer satisfaction, the goal is to deliver actionable insights that help the company maintain trust and protection at every stage.
 
 **Project Overview:**
